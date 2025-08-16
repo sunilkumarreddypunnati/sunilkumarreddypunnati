@@ -1,4 +1,87 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunil Kumar Reddy Punnati  
+
+---
+
+🎯 **Aspiring Data Analyst | Excel | SQL | Python | Power BI**  
+
+💡 MCA graduate passionate about **data analytics, business intelligence, and KPI-driven dashboards**.  
+🔍 Skilled in **data cleaning, visualization, ETL, and automation** with tools like Excel, SQL, Python, and Power BI.  
+🚀 Actively building a **portfolio of projects** to showcase problem-solving, reporting, and analytical skills.  
+
+---
+
+## 🚀 Current Focus
+- 📊 Developing **interactive dashboards** with Excel & Power BI  
+- 🐍 Strengthening **Python (Pandas, NumPy, Matplotlib)** for analytics  
+- 🗄️ Practicing **SQL queries** for data extraction & insights  
+- 🤝 Open to **collaborations in Data Analytics & Visualization**  
+
+---
+
+## 💼 Internship Experience
+**Data Analysis Intern – Banana Club (Remote, Jan 2025 – July 2025)**  
+- Automated weekly KPI reports using **Excel macros**, reducing reporting time by **40%**  
+- Cleaned & transformed **8,500+ retail transactions**, achieving **100% accuracy**  
+- Designed dashboards to track **top-selling products & seasonal trends**  
+- Enhanced reporting using **Power BI, Excel & AI-driven tools**  
+
+---
+
+## 📂 Featured Projects
+- **Banana Club Sales Dashboard** – Automated KPI reporting with Excel & Power BI  
+- **AI-Based Landslide Prediction** – Achieved 85% model accuracy using Python (scikit-learn, Pandas, Matplotlib)  
+- **Automated Student Mark Sheet** – Excel-based grading system with 100% accuracy  
+
+---
+
+## 🛠️ Skills & Tools  
+
+### 🔹 Languages & Queries  
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL (Joins, Filters, Subqueries)  
+
+### 🔹 Data Visualization  
+- Power BI (DAX, KPI Dashboards)  
+- Excel (Pivot Tables, INDEX-MATCH, SUMIFS)  
+
+### 🔹 ETL & Automation  
+- Data Cleaning & Transformation  
+- Report Automation (Excel Macros, AI Tools)  
+
+### 🔹 Other Tools  
+- GitHub  
+- Google Sheets  
+
+---
+
+## 📜 Certifications
+- **Programming in Python** – Python Life (2025)  
+- **Data Visualization with Power BI** – Python Life (2025)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarreddypunnati&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarreddypunnati&theme=default" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarreddypunnati&layout=compact&theme=default" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+📍 Rajampet, Andhra Pradesh, India  
+📧 [sunilreddy9392448082@gmail.com](mailto:sunilreddy9392448082@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
+🔗 [GitHub](https://github.com/sunilkumarreddypunnati)  
+
+---
+
+⭐ *“Turning raw data into meaningful insights and impactful dashboards that drive business growth.”*  
 
 <!--
 **sunilkumarreddypunnati/sunilkumarreddypunnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
