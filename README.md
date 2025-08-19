@@ -1,3 +1,5 @@
+# 👨‍💻 Welcome to My GitHub Portfolio
+
 # 👋 Hi, I'm Sunil Kumar Reddy Punnati  
 
 ---
@@ -81,10 +83,15 @@ A dynamic Excel dashboard built to automate KPI reporting and uncover sales insi
 
 ## 📊 GitHub Stats
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarreddypunnati&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarreddypunnati&theme=default" alt="GitHub Streak" height="165"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarreddypunnati&layout=compact&theme=default&hide=html,css" alt="Top Languages" height="165"/>
+
 </div>
+
 
 
 
