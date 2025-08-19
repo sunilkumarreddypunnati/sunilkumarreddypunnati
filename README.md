@@ -81,8 +81,22 @@
 
 ---
 
-⭐ *“Turning raw data into meaningful insights and impactful dashboards that drive business growth.”*  
+## 📊 Banana Club Sales Dashboard
 
+A dynamic Excel dashboard built to automate KPI reporting and uncover sales insights for a retail club.
+
+🔍 **Key Highlights**  
+- Cleaned and analyzed **7,300+ transactions**  
+- Automated reporting with slicers and pivot charts  
+- Delivered insights on **top-selling items**, **seasonal trends**, and **category performance**  
+- Reduced manual reporting time by **40%**
+
+🛠️ **Tools Used**: Excel, Power BI, Data Cleaning, Pivot Tables
+
+📸 **Dashboard Preview**  
+![Dashboard Preview](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard/blob/main/dashboard.png)
+
+🔗 [View Full Project Repository](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard)
 <!--
 **sunilkumarreddypunnati/sunilkumarreddypunnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
