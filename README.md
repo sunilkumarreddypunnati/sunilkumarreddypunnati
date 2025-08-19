@@ -83,13 +83,10 @@ A dynamic Excel dashboard built to automate KPI reporting and uncover sales insi
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarreddypunnati&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarreddypunnati&theme=default" alt="GitHub Streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarreddypunnati&layout=compact&theme=default&hide=html,css" alt="Top Languages" height="165"/>
+
 </div>
 
-## 🛠️ Tools & Technologies
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
+
 
 
 
