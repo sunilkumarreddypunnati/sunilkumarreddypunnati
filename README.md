@@ -74,6 +74,8 @@ A dynamic Excel dashboard built to automate KPI reporting and uncover sales insi
 
 🛠️ **Tools Used**: Excel, Power BI, Data Cleaning, Pivot Tables
 
+---
+
 📸 **Dashboard Preview**  
 ![Dashboard Preview](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard/blob/main/dashboard.png)
 
@@ -88,14 +90,9 @@ A dynamic Excel dashboard built to automate KPI reporting and uncover sales insi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarreddypunnati&theme=default" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarreddypunnati&layout=compact&theme=default&hide=html,css" alt="Top Languages" height="165"/>
-
 </div>
 
-
-
-
-
+---
 
 ## 🌐 Let's Connect
 📍 Rajampet, Andhra Pradesh, India  
