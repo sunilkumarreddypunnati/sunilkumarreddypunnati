@@ -77,6 +77,7 @@ A dynamic Excel dashboard built to automate KPI reporting and uncover sales insi
 ---
 
 📸 **Dashboard Preview**  
+
 ![Dashboard Preview](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard/blob/main/dashboard.png)
 
 🔗 [View Full Project Repository](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard)
