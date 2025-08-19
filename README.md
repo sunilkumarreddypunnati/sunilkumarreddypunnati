@@ -60,27 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarreddypunnati&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarreddypunnati&theme=default" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarreddypunnati&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
-
-## 🌐 Let's Connect
-📍 Rajampet, Andhra Pradesh, India  
-📧 [sunilreddy9392448082@gmail.com](mailto:sunilreddy9392448082@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
-🔗 [GitHub](https://github.com/sunilkumarreddypunnati)  
-
----
-
 ## 📊 Banana Club Sales Dashboard
 
 A dynamic Excel dashboard built to automate KPI reporting and uncover sales insights for a retail club.
@@ -97,6 +76,26 @@ A dynamic Excel dashboard built to automate KPI reporting and uncover sales insi
 ![Dashboard Preview](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard/blob/main/dashboard.png)
 
 🔗 [View Full Project Repository](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sunilkumarreddypunnati&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarreddypunnati&theme=default" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarreddypunnati&layout=compact&theme=default" alt="Top Languages" height="165"/>
+</div>
+
+
+## 🌐 Let's Connect
+📍 Rajampet, Andhra Pradesh, India  
+📧 [sunilreddy9392448082@gmail.com](mailto:sunilreddy9392448082@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
+🔗 [GitHub](https://github.com/sunilkumarreddypunnati)  
+
+---
+
 <!--
 **sunilkumarreddypunnati/sunilkumarreddypunnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
