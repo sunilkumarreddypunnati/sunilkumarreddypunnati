@@ -1,105 +1,124 @@
-# 👨‍💻 Welcome to My GitHub Portfolio
+# 👋 Hi, I'm **Sunil Kumar Reddy Punnati**
 
-# 👋 Hi, I'm Sunil Kumar Reddy Punnati  
-
----
-
-🎯 **Aspiring Data Analyst | Excel | SQL | Python | Power BI**  
-
-💡 MCA graduate passionate about **data analytics, business intelligence, and KPI-driven dashboards**.  
-🔍 Skilled in **data cleaning, visualization, ETL, and automation** with tools like Excel, SQL, Python, and Power BI.  
-🚀 Actively building a **portfolio of projects** to showcase problem-solving, reporting, and analytical skills.  
+🎯 Data Analyst | Power BI | Excel | SQL | Python  
+🔍 Turning raw data into meaningful stories & business intelligence  
+🚀 Passionate about dashboards, analytics, and KPI-driven insights  
 
 ---
 
-## 🚀 Current Focus
-- 📊 Developing **interactive dashboards** with Excel & Power BI  
-- 🐍 Strengthening **Python (Pandas, NumPy, Matplotlib)** for analytics  
-- 🗄️ Practicing **SQL queries** for data extraction & insights  
-- 🤝 Open to **collaborations in Data Analytics & Visualization**  
+## 👨‍💻 About Me  
+
+MCA graduate skilled in **Business Intelligence, Data Analysis, and ETL workflows**.  
+I enjoy data-driven problem solving — from cleaning messy datasets to visualizing insights in dashboards.
+
+📊 I work with: **Power BI, Excel, SQL, Python**  
+🌟 My focus areas: **Sales Analytics | Performance Dashboards | Insight Automation**  
+
+💼 Actively seeking **Data Analyst | BI Analyst | Reporting Analyst** opportunities.  
 
 ---
 
-## 💼 Internship Experience
-**Data Analysis Intern – Banana Club (Remote, Jan 2025 – July 2025)**  
-- Automated weekly KPI reports using **Excel macros**, reducing reporting time by **40%**  
-- Cleaned & transformed **8,500+ retail transactions**, achieving **100% accuracy**  
-- Designed dashboards to track **top-selling products & seasonal trends**  
-- Enhanced reporting using **Power BI, Excel & AI-driven tools**  
+## 💼 Experience
+
+### 🟣 Data Analyst Intern — *NoviTech R&D Pvt Ltd (Remote)*  
+📅 Aug 2025 – Sep 2025  
+- Designed Excel & Power BI dashboards for analytical decision making  
+- Performed data modeling, cleaning & metric standardization  
+- Used BI visuals to convert raw tables into clear business insights  
+
+### 🟢 Power BI Intern — *NoviTech R&D Pvt Ltd (Remote)*  
+📅 Sep 2025 – Oct 2025  
+- Built KPI dashboards using DAX and optimized data relationships  
+- ETL automation using Power Query for dashboard-ready datasets  
+- Delivered data stories improving stakeholder interpretation  
 
 ---
 
 ## 📂 Featured Projects
-- **Banana Club Sales Dashboard** – Automated KPI reporting with Excel & Power BI  
-- **AI-Based Landslide Prediction** – Achieved 85% model accuracy using Python (scikit-learn, Pandas, Matplotlib)  
-- **Automated Student Mark Sheet** – Excel-based grading system with 100% accuracy  
 
 ---
 
-## 🛠️ Skills & Tools  
+### 📊 1. **Sales & Profit Performance Dashboard — Excel**
 
-### 🔹 Languages & Queries  
-- Python (Pandas, NumPy, Matplotlib)  
-- SQL (Joins, Filters, Subqueries)  
+A complete business performance dashboard analyzing **sales, profit, quantity and order flow** with category, region & product segmentation.
 
-### 🔹 Data Visualization  
-- Power BI (DAX, KPI Dashboards)  
-- Excel (Pivot Tables, INDEX-MATCH, SUMIFS)  
+| Metric | Value |
+|---|---|
+| 💰 Total Revenue | ₹2.49M |
+| 📈 Total Profit | ₹0.48M |
+| 📦 Units Sold | 7,827 |
+| 🧾 Orders | 1,000+ |
 
-### 🔹 ETL & Automation  
-- Data Cleaning & Transformation  
-- Report Automation (Excel Macros, AI Tools)  
+🔹 **Key Dashboard Insights**  
+- Month-wise Revenue Trend (Seasonality Impact)  
+- Sales by **Category, Sub-Category & Region**  
+- **Top 10 Performing Products** by Sales  
+- Interactive Slicers → *Month | Region | Year | Ship Mode | Category*
 
-### 🔹 Other Tools  
-- GitHub  
-- Google Sheets  
+🛠 **Excel Tools Used**  
+Pivot Tables ▪ Pivot Charts ▪ Slicers ▪ Conditional Formatting ▪ KPI Cards
 
----
-
-## 📜 Certifications
-- **Programming in Python** – Python Life (2025)  
-- **Data Visualization with Power BI** – Python Life (2025)  
+📸 Dashboard Preview  
 
 ---
 
-## 📊 Banana Club Sales Dashboard
+### 📊 2. **Sales Analysis Dashboard — Power BI**
 
-A dynamic Excel dashboard built to automate KPI reporting and uncover sales insights for a retail club.
+A Power BI dashboard to compare **product category revenue, customer behavior, payment modes & gender-based spending distribution**.
 
-🔍 **Key Highlights**  
-- Cleaned and analyzed **7,300+ transactions**  
-- Automated reporting with slicers and pivot charts  
-- Delivered insights on **top-selling items**, **seasonal trends**, and **category performance**  
-- Reduced manual reporting time by **40%**
+| Metric | Result |
+|---|---|
+| Total Sales | 322.97K |
+| Total Tax | 15.38K |
+| Avg Unit Price | 55.67K |
+| Quantity Sold | 6K |
 
-🛠️ **Tools Used**: Excel, Power BI, Data Cleaning, Pivot Tables
+🔹 **Key Business Highlights**  
+- Product-wise Sales Contribution (Top & Low Performing Items)  
+- Customer Type Analysis (Member vs Normal)  
+- City-Level Sales Distribution & Benchmarking  
+- Payment Mode Usage – *E-Wallet, Cash, Card*  
+- Gender-Purchase Split Visualized Clearly  
 
----
+🛠 **Power BI Process**  
+DAX Measures ▪ Power Query ETL ▪ Data Modeling ▪ Drill-down Visuals
 
-📸 **Dashboard Preview**  
-
-![Dashboard Preview](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard/blob/main/dashboard.png)
-
-🔗 [View Full Project Repository](https://github.com/sunilkumarreddypunnati/Banana-Club-Sales-Dashboard)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunilkumarreddypunnati&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarreddypunnati&theme=default" alt="GitHub Streak" height="165"/>
-
-</div>
+📸 Dashboard Preview  
 
 ---
 
-## 🌐 Let's Connect
-📍 Rajampet, Andhra Pradesh, India  
-📧 [sunilreddy9392448082@gmail.com](mailto:sunilreddy9392448082@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
-🔗 [GitHub](https://github.com/sunilkumarreddypunnati)  
+## 🛠 Technical Skills
+
+| Skill Area | Tools & Strengths |
+|---|---|
+| Data Visualization | Power BI · Excel (Charts, Pivot, KPI Cards) |
+| Programming | Python (Pandas, NumPy) |
+| Databases | SQL (Joins, Aggregations, Filters) |
+| ETL & Analytics | Power Query · Data Cleaning · Automation |
+
+🧠 Soft Skills: Critical Thinking ▪ Attention to Detail ▪ Communication ▪ Presentation
+
+---
+
+## 🎓 Education  
+
+**MCA — SV College of Engineering, Tirupati** *(CGPA 9.08)*  
+**B.Sc — Shri Vaishnavi Degree College, Rajampet** *(CGPA 8.16)*  
+
+---
+
+## 📜 Certifications  
+
+📄 Python Programming  
+📄 Power BI Data Visualization  
+
+---
+
+## 🌐 Connect With Me  
+
+📫 Email: **punnatisunilkumarreddy@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308  
+💻 GitHub: https://github.com/sunilkumarreddypunnati  
 
 ---
 
