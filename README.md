@@ -1,126 +1,127 @@
-# 👋 Hi, I'm **Sunil Kumar Reddy Punnati**
+# 👋 Hello, I'm **Sunil Kumar Reddy Punnati**
 
-🎯 Data Analyst | Power BI | Excel | SQL | Python  
-🔍 Turning raw data into meaningful stories & business intelligence  
-🚀 Passionate about dashboards, analytics, and KPI-driven insights  
+### 📊 Data Analyst | Business Intelligence | Dashboard Developer  
+Expertise in **Power BI, Excel, SQL, Python** for turning structured & unstructured data into clear, actionable insights.
 
 ---
 
-## 👨‍💻 About Me  
+## 🔥 Professional Summary
 
-MCA graduate skilled in **Business Intelligence, Data Analysis, and ETL workflows**.  
-I enjoy data-driven problem solving — from cleaning messy datasets to visualizing insights in dashboards.
+Data Analyst with strong command over **visual analytics, KPI modelling, ETL pipelines, and insight-driven reporting**.  
+Aiming to add value to organizations through data-backed decisions, automation, and dashboard storytelling.
 
-📊 I work with: **Power BI, Excel, SQL, Python**  
-🌟 My focus areas: **Sales Analytics | Performance Dashboards | Insight Automation**  
+I specialise in:
 
-💼 Actively seeking **Data Analyst | BI Analyst | Reporting Analyst** opportunities.  
+🔹 Sales & Revenue Analytics  
+🔹 KPI Dashboard Design  
+🔹 Data Cleaning & Modeling  
+🔹 Trend, Segmentation & Behaviour Analysis  
+
+Actively seeking **Data Analyst / BI Analyst / Reporting Analyst** roles.
 
 ---
 
 ## 💼 Experience
 
-### 🟣 Data Analyst Intern — *NoviTech R&D Pvt Ltd (Remote)*  
+### 🔷 Data Analyst Intern — *NoviTech R&D Pvt Ltd* (Remote)  
 📅 Aug 2025 – Sep 2025  
-- Designed Excel & Power BI dashboards for analytical decision making  
-- Performed data modeling, cleaning & metric standardization  
-- Used BI visuals to convert raw tables into clear business insights  
+- Developed analytical dashboards for decision intelligence  
+- Automated & transformed datasets using Excel + Power BI  
+- Delivered insight stories improving data interpretation  
 
-### 🟢 Power BI Intern — *NoviTech R&D Pvt Ltd (Remote)*  
+### 🔷 Power BI Intern — *NoviTech R&D Pvt Ltd* (Remote)  
 📅 Sep 2025 – Oct 2025  
-- Built KPI dashboards using DAX and optimized data relationships  
-- ETL automation using Power Query for dashboard-ready datasets  
-- Delivered data stories improving stakeholder interpretation  
+- Built KPI dashboards using DAX, optimized data relationships  
+- Performed ETL using Power Query for clean analytical modeling  
+- Designed reports with drill-downs for business clarity
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
+
+### 1️⃣ **Sales & Profit Performance Dashboard — Excel**
+
+A full-scale business intelligence dashboard providing structured visibility over **sales, profit, orders & performance metrics**.
+
+| KPI | Result |
+|---|---|
+| **Total Sales** | ₹2.49M |
+| **Total Profit** | ₹0.48M |
+| **Orders** | 1,000+ |
+| **Quantity Sold** | 7,827 Units |
+
+**What this dashboard delivers:**  
+✔ Revenue & Profit Trend (Month-wise)  
+✔ Category & Region Performance Breakdown  
+✔ Top 10 Revenue Generating Products  
+✔ Slicer Based Dynamic Analysis  
+
+**Skills Used :** Excel ▪ Pivot Tables ▪ KPI Cards ▪ Slicers ▪ Charts
+
+📸 Preview  
 
 ---
 
-### 📊 1. **Sales & Profit Performance Dashboard — Excel**
+### 2️⃣ **Sales Analysis Dashboard — Power BI**
 
-A complete business performance dashboard analyzing **sales, profit, quantity and order flow** with category, region & product segmentation.
+A high-level visual reporting system for **sales, customers, payment behaviour & city-wise performance**.
 
 | Metric | Value |
 |---|---|
-| 💰 Total Revenue | ₹2.49M |
-| 📈 Total Profit | ₹0.48M |
-| 📦 Units Sold | 7,827 |
-| 🧾 Orders | 1,000+ |
+| **Total Sales** | 322.97K |
+| **Total Tax** | 15.38K |
+| **Unit Price Avg** | 55.67K |
+| **Quantity Sold** | 6K |
 
-🔹 **Key Dashboard Insights**  
-- Month-wise Revenue Trend (Seasonality Impact)  
-- Sales by **Category, Sub-Category & Region**  
-- **Top 10 Performing Products** by Sales  
-- Interactive Slicers → *Month | Region | Year | Ship Mode | Category*
+**Highlights & Insights:**  
+🔹 Product-wise Business Contribution  
+🔹 Member vs Normal Customer Analysis  
+🔹 City-Level Sales Benchmark  
+🔹 Payment Method Adoption Rates  
+🔹 Gender-Sales Comparison Visual  
 
-🛠 **Excel Tools Used**  
-Pivot Tables ▪ Pivot Charts ▪ Slicers ▪ Conditional Formatting ▪ KPI Cards
+**Skills Used:** Power BI ▪ DAX ▪ Power Query ▪ Data Modelling
 
-📸 Dashboard Preview  
+📸 Preview  
 
 ---
 
-### 📊 2. **Sales Analysis Dashboard — Power BI**
+## 🛠 Core Competencies
 
-A Power BI dashboard to compare **product category revenue, customer behavior, payment modes & gender-based spending distribution**.
-
-| Metric | Result |
+| Category | Skills |
 |---|---|
-| Total Sales | 322.97K |
-| Total Tax | 15.38K |
-| Avg Unit Price | 55.67K |
-| Quantity Sold | 6K |
-
-🔹 **Key Business Highlights**  
-- Product-wise Sales Contribution (Top & Low Performing Items)  
-- Customer Type Analysis (Member vs Normal)  
-- City-Level Sales Distribution & Benchmarking  
-- Payment Mode Usage – *E-Wallet, Cash, Card*  
-- Gender-Purchase Split Visualized Clearly  
-
-🛠 **Power BI Process**  
-DAX Measures ▪ Power Query ETL ▪ Data Modeling ▪ Drill-down Visuals
-
-📸 Dashboard Preview  
+| **BI & Visualization** | Power BI · DAX · KPI Reporting · Data Modelling |
+| **Analytical Tools** | Excel (Pivot · KPI Cards · Reports) |
+| **Programming** | Python (Pandas · NumPy) |
+| **Databases** | SQL (Joins · Filters · Aggregations) |
+| **ETL & Automation** | Power Query · Data Cleaning · Workflow Optimization |
 
 ---
 
-## 🛠 Technical Skills
+## 🎓 Education
 
-| Skill Area | Tools & Strengths |
-|---|---|
-| Data Visualization | Power BI · Excel (Charts, Pivot, KPI Cards) |
-| Programming | Python (Pandas, NumPy) |
-| Databases | SQL (Joins, Aggregations, Filters) |
-| ETL & Analytics | Power Query · Data Cleaning · Automation |
-
-🧠 Soft Skills: Critical Thinking ▪ Attention to Detail ▪ Communication ▪ Presentation
+🎓 MCA — SV College of Engineering, Tirupati *(CGPA 9.08)*  
+🎓 B.Sc — Shri Vaishnavi Degree College, Rajampet *(CGPA 8.16)*  
 
 ---
 
-## 🎓 Education  
+## 📜 Certifications
 
-**MCA — SV College of Engineering, Tirupati** *(CGPA 9.08)*  
-**B.Sc — Shri Vaishnavi Degree College, Rajampet** *(CGPA 8.16)*  
-
----
-
-## 📜 Certifications  
-
-📄 Python Programming  
-📄 Power BI Data Visualization  
+✔ **Programming in Python** – PythonLife (Online, 2025)
+✔ **Data Visualization with Power BI** – NoviTech R&D Pvt Ltd (Remote, 2025)
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Let's Connect
 
-📫 Email: **punnatisunilkumarreddy@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308  
-💻 GitHub: https://github.com/sunilkumarreddypunnati  
+📩 Email — **punnatisunilkumarreddy@gmail.com**  
+🔗 LinkedIn — https://linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308  
+💻 GitHub — https://github.com/sunilkumarreddypunnati  
 
 ---
+
+
+
 
 <!--
 **sunilkumarreddypunnati/sunilkumarreddypunnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
