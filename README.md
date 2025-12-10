@@ -110,6 +110,7 @@ A high-level visual reporting system for **sales, customers, payment behaviour &
 ## 📜 Certifications
 
 ✔ **Programming in Python** – PythonLife (Online, 2025)
+
 ✔ **Data Visualization with Power BI** – NoviTech R&D Pvt Ltd (Remote, 2025)
 
 ---
