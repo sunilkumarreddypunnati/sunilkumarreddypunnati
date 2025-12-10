@@ -59,7 +59,7 @@ A full-scale business intelligence dashboard providing structured visibility ove
 **Skills Used :** Excel ▪ Pivot Tables ▪ KPI Cards ▪ Slicers ▪ Charts
 
 📸 Preview  
-![Sales Dashboard Screenshot](./Dashboard-Screenshot-Excel.png)
+![Sales Dashboard Screenshot](https://github.com/sunilkumarreddypunnati/Sales-Profit-Dashboard-Excel/blob/ac3f40df849dd5043be3bc9e3167e00582155e52/Dashboard-Screenshot-Excel.png)
 
 ---
 
