@@ -84,7 +84,7 @@ A high-level visual reporting system for **sales, customers, payment behaviour &
 **Skills Used:** Power BI ▪ DAX ▪ Power Query ▪ Data Modelling
 
 📸 Preview  
-![Power BI Dashboard Screenshot](./DashBoard%20Screenshot%20.png)
+![Power BI Dashboard Screenshot](https://github.com/sunilkumarreddypunnati/Sales-Analysis-Dashboard-PowerBI/blob/746f9ba1d3fb91f29e189db4c21449cd8b48a2cc/DashBoard%20Screenshot%20.png)
 
 ---
 
