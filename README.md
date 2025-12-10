@@ -59,6 +59,7 @@ A full-scale business intelligence dashboard providing structured visibility ove
 **Skills Used :** Excel ▪ Pivot Tables ▪ KPI Cards ▪ Slicers ▪ Charts
 
 📸 Preview  
+![Sales Dashboard Screenshot](./Dashboard-Screenshot-Excel.png)
 
 ---
 
@@ -83,6 +84,7 @@ A high-level visual reporting system for **sales, customers, payment behaviour &
 **Skills Used:** Power BI ▪ DAX ▪ Power Query ▪ Data Modelling
 
 📸 Preview  
+![Power BI Dashboard Screenshot](./DashBoard%20Screenshot%20.png)
 
 ---
 
